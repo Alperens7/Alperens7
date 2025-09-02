@@ -1,5 +1,5 @@
 ## Hi there I'm Alperen👋
-A passionate Jr. Full Stack Developer and AI enthusiast from Turkey.
+A passionate Jr. Full Stack Developer and AI enthusiast.
 
 🚀 About Me
 
