@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there I'm Alperen👋
+A passionate Jr. Full Stack Developer and AI enthusiast from Turkey.
 
-<!--
-**Alperens7/Alperens7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at Eskişehir Technical University (Expected Graduation: October 2025).
+🤖 AI Enthusiast, exploring deep learning, machine learning, and AI-powered applications.
+🌍 Open to collaborations and exciting tech challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects
+
+📌 Folemik - AI-Powered Opinion Sharing App
+
+A mobile app that lets users share opinions on trending topics in a structured discussion format.
+🏗 Tech Stack: Flutter (mobile), React (admin panel), PostgreSQL, Firebase, AI Integration.
+🚀 Status: Backend completed, currently developing the forum page.
+
+📌 AI Hackathon Projects
+🏆 EESTech Challenge 2023 Finalist: Developed a Smart Office System in an AI-focused hackathon.
